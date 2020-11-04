@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ROOFTOP</title>
+    <link>http://aislinggui.com/post/</link>
+    <description>Recent content in Posts on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2020 09:33:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elasticsearch的索引</title>
+      <link>http://aislinggui.com/post/elasticsearch%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</link>
+      <pubDate>Fri, 30 Oct 2020 09:33:50 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/elasticsearch%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</guid>
+      <description>倒排索引 倒排索引是通过通过某个词查到出现这个词的所有文档 ES是通过Lucene检索引擎的倒排索引来实现全文检索。 Lucene索引底层原理 索引</description>
+    </item>
+    
+    <item>
+      <title>背包问题</title>
+      <link>http://aislinggui.com/post/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Thu, 29 Oct 2020 22:39:08 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/</guid>
+      <description>背包问题是一种组合优化的问题，包括01 背包，完全背包，多重背包。 0-1背包 问题描述：有n种物体，物体j的体积为wj,价值为wi，有一个体积限</description>
+    </item>
+    
+    <item>
+      <title>博客说明</title>
+      <link>http://aislinggui.com/post/%E5%8D%9A%E5%AE%A2%E8%AF%B4%E6%98%8E/</link>
+      <pubDate>Thu, 29 Oct 2020 10:54:13 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/%E5%8D%9A%E5%AE%A2%E8%AF%B4%E6%98%8E/</guid>
+      <description>本博客用于记录一些学习笔记，包括编程语言、算法、数据库、容器等知识。</description>
+    </item>
+    
+  </channel>
+</rss>

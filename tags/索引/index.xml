@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>索引 on ROOFTOP</title>
+    <link>http://aislinggui.com/tags/%E7%B4%A2%E5%BC%95/</link>
+    <description>Recent content in 索引 on ROOFTOP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2020 09:33:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://aislinggui.com/tags/%E7%B4%A2%E5%BC%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elasticsearch的索引</title>
+      <link>http://aislinggui.com/post/elasticsearch%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</link>
+      <pubDate>Fri, 30 Oct 2020 09:33:50 +0800</pubDate>
+      
+      <guid>http://aislinggui.com/post/elasticsearch%E5%80%92%E6%8E%92%E7%B4%A2%E5%BC%95/</guid>
+      <description>倒排索引 倒排索引是通过通过某个词查到出现这个词的所有文档 ES是通过Lucene检索引擎的倒排索引来实现全文检索。 Lucene索引底层原理 索引</description>
+    </item>
+    
+  </channel>
+</rss>
